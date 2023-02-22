@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e7f92e499660954fa462cc2728f4ef3, type: 3}
+  m_Name: YellowCoin
+  m_EditorClassIdentifier: 
+  _name: YellowCoin
+  _sprite: {fileID: 21300000, guid: cddbc1cc7afcd2342b43f26989be42bf, type: 3}
+  _minAngle: 315
+  _maxangle: 359
+  _count: 0
+  _countWinning: 4
